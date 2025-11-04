@@ -1,3 +1,7 @@
 Hola soy Alonso
 Hola soy Jorge
+<<<<<<< HEAD
 Platano
+=======
+Manzana
+>>>>>>> 78dec9d98fd62dc8e1e152033b4dcc2e18e8ade6
